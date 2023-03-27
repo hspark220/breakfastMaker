@@ -1,0 +1,11 @@
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\bin\Debug\breakfastApp.exe.config
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\bin\Debug\breakfastApp.exe
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\bin\Debug\breakfastApp.pdb
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.csproj.AssemblyReference.cache
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.Form1.resources
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.Properties.Resources.resources
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.csproj.GenerateResource.cache
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.csproj.CoreCompileInputs.cache
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.exe
+C:\Users\GT007079\workspace\winform\breakfastApp\breakfastApp\obj\Debug\breakfastApp.pdb
